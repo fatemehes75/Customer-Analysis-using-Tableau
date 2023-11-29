@@ -1,5 +1,11 @@
 # Customer-Analysis-using-Tableau
+Objectives:
+1. Know your audience
+2. Get relevant databases
+3. Choose the right analysis
+4. Choose the right charts with meaningful dashboards
 
+Charts:
 * Revenue per State
 * Revenue based on Month
 * Revenue based on Age
