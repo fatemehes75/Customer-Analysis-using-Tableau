@@ -13,6 +13,6 @@ Charts:
 * Percentage of Revenue per Region
 * Revenue per Category per Gender
 * Building Dashboard
-
+Link to Tableau: https://public.tableau.com/app/profile/fatemeh.eslaminasab/viz/CustomerAnalysis_17012974830090/CustomerAnalysis
 
 ![Customer Analysis](https://github.com/fatemehes75/Customer-Analysis-using-Tableau/assets/109752883/112c7534-2e73-4272-b759-1ccc3a96c0fa)
